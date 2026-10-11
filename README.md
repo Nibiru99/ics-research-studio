@@ -3,7 +3,7 @@
 **A private workbench for computational geometry, numerical experiments and scientific visualization.**  
 Developed by **David Glowalla**, independent researcher and research software developer.
 
-**[Request an annual company license or demonstration](mailto:darklightblackwing@gmail.com?subject=ICS%20Research%20Studio%20annual%20license)** · [LinkedIn](https://www.linkedin.com/in/david-glowalla-b42a59394/) · [GitHub](https://github.com/Nibiru99)
+**[Request a professional/company license or demonstration](mailto:darklightblackwing@gmail.com?subject=ICS%20Research%20Studio%20license)** · [LinkedIn](https://www.linkedin.com/in/david-glowalla-b42a59394/) · [GitHub](https://github.com/Nibiru99)
 
 ## Explore, inspect and compare
 
@@ -21,24 +21,32 @@ Potential evaluation projects include repeated geometry workloads, high-dimensio
 
 These deposits provide numerical evidence for their declared tests. They measure different workloads and do not establish an overall Studio speedup, general retrieval accuracy or physical validation. Restricted files are reviewed through the access arrangements for their individual records.
 
-## Annual company licensing and research access
+## Professional/company licensing and research access
 
 Email [darklightblackwing@gmail.com](mailto:darklightblackwing@gmail.com?subject=ICS%20Research%20Studio%20enquiry) with your organization, intended use, target platform and the result or capability you want to examine.
 
-Annual company licensing is being prepared at a proposed **EUR 10,000 per year plus applicable taxes**, for one legal entity and up to five named users conducting internal research and development. The intended package includes an identified Studio build, documentation, updates released for the purchased edition during the term, and basic installation assistance. Renewal is opt-in; custom development and guaranteed support response times are separately agreed.
+Professional and company research licensing is being prepared with **3-, 6- and 12-month terms**. Prices below exclude applicable taxes.
 
-Smaller research groups can request reduced or sponsored access. Larger deployments, OEM use, redistribution, proprietary source access and custom engineering receive separate quotations. A standard order confirms the actual deliverable, terms, annual dates and total before payment. Automated checkout and customer downloads are not currently available through this repository. An enquiry does not grant access or commission work. See [annual licensing information](LICENSING.md).
+| License | 3 months | 6 months | 12 months |
+|---|---:|---:|---:|
+| Individual professional — 1 named user | EUR 900 | EUR 1,500 | EUR 2,400 |
+| Company research team — up to 5 named users | EUR 2,250 | EUR 3,750 | EUR 6,000 |
+| Larger deployment / OEM / integration | Separate quotation | Separate quotation | Separate quotation |
+
+The individual license is for one named professional; the company license is for one legal entity with up to five named users. Both cover internal research and development with the same core edition, documentation, updates released for that edition during the purchased term, and basic installation assistance. Renewal is opt-in; custom development and guaranteed support response times are separately agreed.
+
+Smaller research groups can request reduced or sponsored access. Larger deployments, OEM use, redistribution, proprietary source access and custom engineering receive separate quotations. A standard order confirms the actual deliverable, terms, start/end dates and total before payment. Automated checkout and customer downloads are not currently available through this repository. An enquiry does not grant access or commission work. See [licensing information](LICENSING.md).
 
 The Studio remains an experimental private research workspace; a general customer distribution is not published here. Its source and protected research material are excluded from this overview. Existing public ICS/GEO components retain their Apache-2.0 rights; a private Studio agreement does not revoke those rights.
 
 **Contact:** [Email](mailto:darklightblackwing@gmail.com) · [LinkedIn](https://www.linkedin.com/in/david-glowalla-b42a59394/) · [GitHub](https://github.com/Nibiru99)
 
-Overview version 1.1.0 · 11 October 2026 · Copyright David Glowalla. No software license is granted by this overview.
+Overview version 1.2.0 · 11 October 2026 · Copyright David Glowalla. No software license is granted by this overview.
 
 ## Official project links
 
 - [Public Studio documentation DOI](https://doi.org/10.5281/zenodo.23299876).
-- [Annual company licensing and research access](LICENSING.md).
+- [Professional/company licensing and research access](LICENSING.md).
 - [Open-source ICS Research Tool / ICS-GEO Tools](https://github.com/Nibiru99/ics-geo-tools-).
 
 This repository is the public project and enquiry page for ICS Research Studio, including its ICS/GEO research work. It contains documentation only. Studio source code and customer software packages are not deposited here.
